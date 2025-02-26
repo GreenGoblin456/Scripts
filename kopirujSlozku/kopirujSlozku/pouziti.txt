@@ -1,0 +1,3 @@
+musi existovat slozka c:\zaloha
+musi existovat soubor c:\makro\BC_input.txt
+BC_input.txt až druhy řádek je source
