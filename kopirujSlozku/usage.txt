@@ -1,0 +1,3 @@
+This is project to copy folder for CAM scripting where some files in folder are used
+
+only second line in bc makro is used
