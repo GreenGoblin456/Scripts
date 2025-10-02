@@ -1,0 +1,6 @@
+přidat novy button v commanderu do parameters %P%N %T
+kliknout v panelu 1 na kopirovanou složku v panelu 2 otevřít složku do které chceme kopírovat a spustit
+
+
+
+/XC /XN /XO
