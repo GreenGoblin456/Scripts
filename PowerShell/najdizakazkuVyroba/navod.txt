@@ -1,0 +1,14 @@
+.bat
+přidat novy button v commanderu
+přidat cestu k skriptu
+zvolit ikonu složky
+
+po klinuti na ikonu napsat číslo zakazky co vyhledavame
+
+.ps1
+přidat novy button v commanderu
+Command:powershell.exe
+Parameters: P:\skripty\najdizakazkuVyroba\NajdiSlozkuOtverTCM.ps1
+Start path: P:\skripty\najdizakazkuVyroba\
+Icon file: C:\Windows\System32\imageres.dll
+Icon:7
